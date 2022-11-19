@@ -1,0 +1,39 @@
+1668864250883	geckodriver	INFO	Listening on 127.0.0.1:54955
+1668864253929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54956" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofile18jJsY"
+1668864254851	Marionette	INFO	Marionette enabled
+1668864254859	Marionette	INFO	Listening on port 54965
+Read port: 54965
+WebDriver BiDi listening on ws://127.0.0.1:54956
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofile18jJsY\\search.json.mozlz4", (void 0)))
+1668864256680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54956/devtools/browser/f4ec6c20-e3bb-49ee-9356-c636c0f18671
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1668428996, line 6289: unreachable code after return statement
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1668428996, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+1668864283081	Marionette	INFO	Stopped listening on port 54965
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668864371193	geckodriver	INFO	Listening on 127.0.0.1:55222
+1668864374278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55223" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofile7H9WBG"
+1668864374943	Marionette	INFO	Marionette enabled
+1668864374953	Marionette	INFO	Listening on port 55232
+Read port: 55232
+WebDriver BiDi listening on ws://127.0.0.1:55223
+1668864375164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofile7H9WBG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55223/devtools/browser/7f1a6af8-fa62-4670-9f5c-7905a59cc24d
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1668428996, line 6289: unreachable code after return statement
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1668428996, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1668865287794	Marionette	INFO	Stopped listening on port 55232
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileVmKcIt"
+1668864415072	Marionette	INFO	Marionette enabled
+1668864415077	Marionette	INFO	Listening on port 55378
+WebDriver BiDi listening on ws://127.0.0.1:55362
+Read port: 55378
+1668864415334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileVmKcIt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55362/devtools/browser/fa7c97e8-3df5-42a8-9162-e235f0f56912
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1668428996, line 6289: unreachable code after return statement
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1668428996, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+1668864430627	Marionette	INFO	Stopped listening on port 55378
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
